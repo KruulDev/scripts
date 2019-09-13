@@ -1,0 +1,2 @@
+git remote add origin https://github.com/KruulDev/scripts.git
+git push -u origin master
